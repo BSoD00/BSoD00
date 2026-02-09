@@ -1,16 +1,16 @@
-## Hi there 👋
+Olá! 👋
 
-<!--
-**BSoD00/BSoD00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Henry Gabriel, sou estudante de Desenvolvimento de Sistemas no SENAI MG.
 
-Here are some ideas to get you started:
+Atualmente estou aprendendo programação com foco em Java e Programação Orientada a Objetos, desenvolvendo projetos práticos para treinar lógica, organização de código e boas práticas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##💻 LINGUAGENS QUE UTILIZO
+Atualmente estudando e praticando:
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+
+
+## ✉️ CONTATO
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSUARIO/)
