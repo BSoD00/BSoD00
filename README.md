@@ -6,6 +6,7 @@ Atualmente estou aprendendo programação com foco em Java e Programação Orien
 
 ##💻 LINGUAGENS QUE UTILIZO
 Atualmente estudando e praticando:
+
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
