@@ -4,7 +4,8 @@ Meu nome é Henry Gabriel, sou estudante de Desenvolvimento de Sistemas no SENAI
 
 Atualmente estou aprendendo programação com foco em Java e Programação Orientada a Objetos, desenvolvendo projetos práticos para treinar lógica, organização de código e boas práticas.
 
-##💻 LINGUAGENS QUE UTILIZO
+## 💻 LINGUAGENS QUE UTILIZO
+
 Atualmente estudando e praticando:
 
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
