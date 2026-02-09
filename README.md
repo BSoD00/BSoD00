@@ -8,9 +8,10 @@ Atualmente estou aprendendo programação com foco em Java e Programação Orien
 
 Atualmente estudando e praticando:
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)](https://www.python.org/)
+
 
 
 ## ✉️ CONTATO
