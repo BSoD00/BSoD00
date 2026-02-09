@@ -14,5 +14,6 @@ Atualmente estudando e praticando:
 
 
 ## ✉️ CONTATO
+
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henrygabriel2048@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEUUSUARIO/](https://www.linkedin.com/in/henry-gabriel-32b8942ba/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-gabriel-32b8942ba/)
